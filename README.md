@@ -11,4 +11,4 @@ bower install
 npm start
 ```
 
-..* Giriş butonuna tıklanınca mesaj çıkarmaca.
+* Giriş butonuna tıklanınca mesaj çıkarmaca.
