@@ -1,0 +1,25 @@
+{
+  "name": "deneme_1",
+  "version": "1.0.0",
+  "description": "deneme bir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orkunkhrmn/electron-denemeleri.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "orkunkhrmn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orkunkhrmn/electron-denemeleri/issues"
+  },
+  "homepage": "https://github.com/orkunkhrmn/electron-denemeleri#readme",
+  "devDependencies": {
+    "electron": "^3.0.11"
+  }
+}

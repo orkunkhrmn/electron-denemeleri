@@ -1,0 +1,25 @@
+{
+  "name": "deneme_1",
+  "description": "deneme bir",
+  "main": "index.js",
+  "authors": [
+    "orkunkhrmn"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "electron"
+  ],
+  "homepage": "https://github.com/orkunkhrmn/electron-denemeleri",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "jquery": "^3.3.1"
+  }
+}
