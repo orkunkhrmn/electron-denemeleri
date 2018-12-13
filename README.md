@@ -11,5 +11,6 @@ bower install
 npm start
 ```
 
-* ~~Giriş butonuna tıklanınca mesaj çıkarmaca.~~
+* ~~Giriş butonuna tıklanınca mesaj çıkarmaca. (tut_1)~~
+* ~~JSON validator. (tut_2)~~
 * Angularjs örneği?
