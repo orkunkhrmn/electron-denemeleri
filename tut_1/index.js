@@ -11,7 +11,9 @@ function createWindow() {
         pathname: path.join(__dirname, 'index.html'),
         protocol:'file',
         slashes: true
-    }))
+    }));
+
+    //win.webContents.openDevTools(); // uygulamada chorome developer tool açmak için
 }
 
 app.on('ready', createWindow);
