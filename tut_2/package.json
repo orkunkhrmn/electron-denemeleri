@@ -1,0 +1,30 @@
+{
+  "name": "tut_2",
+  "version": "1.0.0",
+  "description": "jsonlint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orkunkhrmn/electron-denemeleri.git"
+  },
+  "keywords": [
+    "electron",
+    "json"
+  ],
+  "author": "orkunkhrmn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orkunkhrmn/electron-denemeleri/issues"
+  },
+  "homepage": "https://github.com/orkunkhrmn/electron-denemeleri#readme",
+  "devDependencies": {
+    "electron": "^3.0.11"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "tut_2",
+  "description": "jsonlint",
+  "main": "index.js",
+  "authors": [
+    "orkunkhrmn"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "electron",
+    "json"
+  ],
+  "homepage": "https://github.com/orkunkhrmn/electron-denemeleri",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}

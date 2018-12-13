@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Validator</title>
+    <link rel="stylesheet" href="./bower_components/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="./assets/css/form-validation.css">
+
+</head>
+
+<body class="bg-light">
+
+    <div class="container">
+        <div class="py-5 text-center">
+            <img class="d-block mx-auto mb-4" src="./assets/brand/bootstrap-solid.svg" alt="" width="72" height="72">
+            <h2>Checkout form</h2>
+            <p class="lead">Validate json input</p>
+        </div>
+        <div class="row">
+            <div class="col-md-12 order-md-1">
+                <h4 class="mb-3">JSON Validator</h4>
+                <form class="needs-validation" novalidate>
+                    <div class="row">
+                        <div class="col-md-12 mb-6">
+                            <label for="firstName">Json</label>
+                            <textarea rows="5" class="form-control" id="txtJsonTxt" placeholder="" value="" required></textarea>
+                        </div>
+                    </div>
+                    <hr class="mb-4">
+                    <button class="btn btn-primary btn-lg btn-block" type="button" id="btnValidate">Validate</button>
+                </form>
+                <hr class="mb-4">
+                <div class="alert alert-light" role="alert" id="sonucDiv">
+                    İşlem Sonucu
+                </div>
+            </div>
+        </div>
+
+        <footer class="my-5 pt-5 text-muted text-center text-small">
+            <p class="mb-1">&copy; 2017-2018 Company Name</p>
+        </footer>
+    </div>
+
+    <script src="./assets/js/index_page.js"></script>
+</body>
+
+</html>
