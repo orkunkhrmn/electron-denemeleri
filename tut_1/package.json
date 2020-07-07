@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/orkunkhrmn/electron-denemeleri#readme",
   "devDependencies": {
-    "electron": "^3.0.11"
+    "electron": "^7.2.4"
   },
   "dependencies": {
     "jquery": "^3.4.1",
